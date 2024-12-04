@@ -8,5 +8,9 @@
 6) Profit By Sub-Category
 7) Profit Analysis By Customer Segment
 
+# Insights 
+
+![CS Insights]()
+
 # CONCLUSION 
 Store sales and profit analysis help businesses identify areas for improvement and make data-driven decisions to optimize their operations, pricing, marketing, and inventory management strategies to drive revenue and growth.
