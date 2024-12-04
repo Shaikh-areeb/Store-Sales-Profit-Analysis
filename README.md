@@ -11,11 +11,14 @@
 # Insights 
 
 ![CS Insights](https://github.com/Shaikh-areeb/Store-Sales-Profit-Analysis/blob/main/Customer%20Segments%20Insights.png)
-       Segment         Sales_to_Profit_Ratio
-1     Consumer               8.659471
-2    Corporate               7.677245
-3  Home Office               7.125416
 
+## Sales to Profit Ratio by Segment
+
+| Segment      | Sales to Profit Ratio |
+|--------------|-----------------------|
+| Consumer     | 8.659471              |
+| Corporate    | 7.677245              |
+| Home Office  | 7.125416              |
 
 
 # CONCLUSION 
