@@ -10,7 +10,7 @@
 
 # Insights 
 
-![CS Insights]()
+![CS Insights](https://github.com/Shaikh-areeb/Store-Sales-Profit-Analysis/blob/main/Customer%20Segments%20Insights.png)
 
 # CONCLUSION 
 Store sales and profit analysis help businesses identify areas for improvement and make data-driven decisions to optimize their operations, pricing, marketing, and inventory management strategies to drive revenue and growth.
