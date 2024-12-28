@@ -64,7 +64,7 @@ However, its total sales and profit might be comparatively lower than the other 
 
 # Final Thoughts
 
-## Store sales and profit analysis provides actionable insights that help businesses:
+**Store sales and profit analysis provides actionable insights that help businesses**
 
 1) Identify areas for improvement.
 2) Make data-driven decisions to optimize operations, pricing, marketing, and inventory management strategies.
