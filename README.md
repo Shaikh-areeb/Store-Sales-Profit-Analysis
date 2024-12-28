@@ -11,6 +11,7 @@
 # Insights 
 
 ![CS Insights](https://github.com/Shaikh-areeb/Store-Sales-Profit-Analysis/blob/main/Customer%20Segments%20Insights.png)
+The store has higher profits from the product sales for consumers, but the profit from corporate product sales is better in the sales-to-profit ratio.
 
 ## Sales to Profit Ratio by Segment
 
